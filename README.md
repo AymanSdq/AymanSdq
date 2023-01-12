@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AymanSdq&theme=radical&hide_border=false)<br/>
-username=AymanSdq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AymanSdq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
